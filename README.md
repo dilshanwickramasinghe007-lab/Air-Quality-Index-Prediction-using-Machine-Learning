@@ -27,10 +27,10 @@ Generated future predictions for selected air quality metrics
 4. Visualization & Insights
 Visualized forecasted results and trends
 Analyzed:
-📅 Monthly trends (long-term patterns)
-📆 Weekly variations
-⏰ Hourly cycles
-📈 Results
+Monthly trends (long-term patterns)
+Weekly variations
+Hourly cycles
+Results
 
 The model successfully captures seasonal patterns and trends in air quality data, providing interpretable forecasts that can be used for environmental monitoring and planning.
 
